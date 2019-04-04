@@ -5,5 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "@lernarepo/testlernarepo2": "^1.0.0"
-  }
+  },
+  "gitHead": "d6085ea31649958e5925b79367cbcdc691d6a9d9"
 }
